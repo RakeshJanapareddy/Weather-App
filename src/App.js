@@ -55,7 +55,7 @@ const WeatherApp = () => {
           variant="outlined"
         />
         <div>
-        <Button variant="contained" color="primary" onClick={getWeatherData} style={{marginTop:"9px"}}>
+        <Button variant="contained" color="primary" onClick={getWeatherData} style={{marginTop:"11px"}}>
           Get Weather
         </Button>
         </div>
