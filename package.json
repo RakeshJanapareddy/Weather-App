@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rakeshjanapareddy.github.io/Weather-App-React/",
+  "homepage": "https://RakeshJanapareddy.github.io/Weather-App-React",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "or": "^0.2.0"
   }
 }
